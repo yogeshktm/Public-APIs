@@ -569,7 +569,6 @@ APIs
 - [Facebook](https://developers.facebook.com/) - For ads, games, payments, login, sharing stats, and user data.
 - [Flickr](https://www.flickr.com/services/api/) - Search through user Flickr content, contacts, upload or replace photos.
 - [Foursquare](https://developer.foursquare.com/) - Access to Foursquare database and ability to interact with Foursquare users.
-- [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
 - [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
 - [Hacker News](https://github.com/HackerNews/API) - Anything that good hackers would find interesting.
 - [Hacker News GraphQL](https://metamate.io/blog/most-advanced-hackernews-api/) - Convenient HackerNews GraphQL wrapper API.
